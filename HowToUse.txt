@@ -1,10 +1,44 @@
 ================================================
 Script Name: RUSTAiO
-Version: 1.1.0
+Version: 1.2.0
 Publisher: diXon
-Last Updated: 12/10/2018
+Last Updated: 14/10/2018
 ================================================
 
+English
+---------
+1. Run the program. When you first start it will be a config folder
+   created with the appropriate files
+
+2. Edit the files "BPwipe.config" and "wipe.config" with Notepad ++
+   and specify the paths of the files to be deleted.
+
+3. In the file "RUSTAiO.config" can general program settings
+   be made.
+
+4. The "rustide.config" file contains the settings
+   for the integrated rusty-startscript
+   (if desired and activated in the settings)
+
+5. Restart the program and follow the program
+
+
+---> If the integrated rustide-startscript is not used,
+     can be selected in the config a separate program or script!
+
+---> The host name autoupdate feature adds your specified host name
+     Automatically add the current Wip date and change it in your server.cfg!
+     "YourHostname 13/10 WIPED" In this case "dd / mm WIPED" will be inserted automatically!
+
+---> The MapSize as well as the seed can be entered during the wiping process
+     automatically changed in the server.cfg
+
+---> The files "7za.exe" and "wget.exe" are required for the integrated ServerSartScript
+
+
+
+Deutsch
+---------
 1. Das Programm ausführen. Beim erstmaligen Start wird ein Config-Ordner 
    mit den entsprechenden Dateien erstellt
 
@@ -30,6 +64,8 @@ Last Updated: 12/10/2018
 
 ---> Die MapSize sowie der Seed können während des Wipevorgangs eingegeben werden und werden 
      automatisch in der server.cfg geändert
+	 
+---> Die Dateien "7za.exe" und "wget.exe" werden für das integrierte ServerSartScript benötigt
 
 
 ================================================
@@ -82,6 +118,8 @@ Known Issues:
 
 CHANGELOG:
 
+UPDATE v.1.5.0
+- Fixed wget integration
 
 UPDATE v.1.4.4
 - Fixed Oxide installation directory being changed

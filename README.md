@@ -10,6 +10,11 @@ An All In One program to wipe and start your RUST-Server
 Everything free configurable in external Configuration-Files!
 
 
+v1.2
+-
+-> English language added
+
+-> language is now changeable (in config file and on first startup)
 
 v1.1
 -

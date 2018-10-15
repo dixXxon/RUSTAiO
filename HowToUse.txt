@@ -1,8 +1,8 @@
 ================================================
 Script Name: RUSTAiO
-Version: 1.2.0
+Version: 1.3.0
 Publisher: diXon
-Last Updated: 14/10/2018
+Last Updated: 15/10/2018
 ================================================
 
 English
@@ -17,7 +17,7 @@ English
    be made.
 
 4. The "rustide.config" file contains the settings
-   for the integrated rusty-startscript
+   for the integrated rustide-startscript
    (if desired and activated in the settings)
 
 5. Restart the program and follow the program

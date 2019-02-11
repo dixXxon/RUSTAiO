@@ -10,6 +10,10 @@ An All In One program to wipe and start your RUST-Server
 
 Everything free configurable in external Configuration-Files!
 
+v1.3.1
+-
+-> Fixed for UTF-8 support in Hostname
+
 v1.3
 -
 -> Wipedate-Format is now changeable in config-file!
